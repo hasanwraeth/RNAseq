@@ -20,3 +20,15 @@ Code for analyzing publicly available RNAseq data using Salmon quasi mapper algo
 The common way to install Salmon is through
 [PYPI](https://pypi.org/project/salmon/)
 * x86_64
+
+## Usage
+
+Example for regular peak calling on TF ChIP-seq:
+
+`macs3 callpeak -t ChIP.bam -c Control.bam -f BAM -g hs -n test -B -q 0.01`
+
+
+Subcommand | Description
+-----------|----------
+[`callpeak`](./docs/callpeak.md) | Main MACS3 Function to call peaks from alignment results.
+[`bdgpeakcall`](./docs/bdgpeakcall.md) | Call peaks from bedGraph output.
