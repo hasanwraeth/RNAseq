@@ -33,6 +33,6 @@ Subcommand | Description
 [`salmon`](./docs/callpeak.md) | Quantify transcripts.
 
 	Extras
-	* Not sure
+	*  Not sure
 	
 * [END](https://www.google.com)
