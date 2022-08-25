@@ -31,3 +31,6 @@ Example for salmon quantification:
 Subcommand | Description
 -----------|----------
 [`salmon`](./docs/callpeak.md) | Quantify transcripts.
+
+	Extras
+	* Not sure
