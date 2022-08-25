@@ -23,12 +23,11 @@ The common way to install Salmon is through
 
 ## Usage
 
-Example for regular peak calling on TF ChIP-seq:
+Example for salmon quantification:
 
-`macs3 callpeak -t ChIP.bam -c Control.bam -f BAM -g hs -n test -B -q 0.01`
+`salmon quant -i gencode_v39_index -l A -1 $SRR1 -2 $SRR2 -o $i`
 
 
 Subcommand | Description
 -----------|----------
-[`callpeak`](./docs/callpeak.md) | Main MACS3 Function to call peaks from alignment results.
-[`bdgpeakcall`](./docs/bdgpeakcall.md) | Call peaks from bedGraph output.
+[`salmon`](./docs/callpeak.md) | Quantify transcripts.
