@@ -1,4 +1,4 @@
-**# RNAseq**
+# RNAseq
 
 ![Status](https://img.shields.io/badge/status-alpha-red)
 
@@ -7,7 +7,7 @@ Latest Release:
 
 Code for analyzing publicly available RNAseq data using Salmon quasi mapper algorithm.
 
-SALMON-v.2.1.0
+##SALMON-v.2.1.0
 ### 2.1.0
 
 	* New features:
