@@ -34,5 +34,6 @@ Subcommand | Description
 
 	Extras
 	*  Not sure
+	* 'Sure'
 	
 * [END](https://www.google.com)
