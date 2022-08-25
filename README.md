@@ -35,6 +35,7 @@ Subcommand | Description
 	Extras
 	*  Not sure
 	* `Sure`
+`Sure`
 
 <img src="https://github.com/hasanwraeth/RNAseq/blob/main/urea.tiff" width="300" height="100">
 
