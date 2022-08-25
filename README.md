@@ -35,4 +35,4 @@ Subcommand | Description
 	Extras
 	* Not sure
 	
-* [END]
+* END
