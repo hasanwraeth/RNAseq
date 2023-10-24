@@ -37,7 +37,7 @@ Subcommand | Description
 	* `Sure`
 `Sure`
 
-<img src="https://github.com/hasanwraeth/RNAseq/blob/main/urea.tiff" width="300" height="100">
-
+<img src="https://github.com/hasanwraeth/RNAseq/blob/main/urea.png" width="300" height="100">
+<img src="https://github.com/hasanwraeth/RNAseq/blob/main/bile.png" width="300" height="100">
 
 * [END](https://www.google.com)
