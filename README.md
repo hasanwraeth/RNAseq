@@ -1,7 +1,7 @@
 # RNAseq
 
 ![Status](https://img.shields.io/badge/status-alpha-red)
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.stemcr.2023.09.006-blue)
+![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.stemcr.2023.09.006-blue)
 
 Latest Release:
 * Github:![Github Release](https://img.shields.io/badge/release-v1-blue)
