@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-alpha-red)
 ![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.stemcr.2023.09.006-blue)
-<a href="default.asp"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.stemcr.2023.09.006-blue"></a>
+<a href="https://doi.org/10.1016/j.stemcr.2023.09.006"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.stemcr.2023.09.006-blue"></a>
 
 Latest Release:
 * Github:![Github Release](https://img.shields.io/badge/release-v1-blue)
