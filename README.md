@@ -1,6 +1,6 @@
 # RNAseq
 
-![Status](https://img.shields.io/badge/status-beta-#00FF00)
+![Status](https://img.shields.io/badge/status-beta-%2300FF00)
 <a href="https://doi.org/10.1016/j.stemcr.2023.09.006"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.stemcr.2023.09.006-blue"></a>
 
 Latest Release:
