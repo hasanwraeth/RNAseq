@@ -1,0 +1,11 @@
+fastqc -o fastqc_out *.fastq.gz
+
+salmon idnex -t gencode.v39.transcripts.fa -i gencode_v39_index --gencode
+
+grep -P -o 'ENSG\d{11}' gencode.v39.transcripts.fa > ensg.txt
+grep -P -o 'ENST\d{11}' gencode.v39.transcripts.fa > enst.txt
+
+paste -d ',' enst.txt ensg.txt > gene_map39.csv
+
+
+
